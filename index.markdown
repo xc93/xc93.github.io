@@ -22,11 +22,11 @@ I'm the CTO of [Pi Squared](https://pi2.network).
 - 2014-2015. Assistant lecturer. Birmingham City University. 
 - 2010-2014. BSc. Peking University. 
 
-# Selected Publications. 
-- Matching μ-logic. PhD Thesis. 2023.
-- Generating proof certificates for a language-agnostic deductive program verifier
-- Towards a trustworthy semantics-based language framework via proof generation
-- A general approach to define binders using matching logic
-- Towards A unified proof framework for automated fixpoint reasoning using matching logic
-- Matching μ-logic
+# Selected Publications
+- [Matching μ-logic]({{ site.url }}/assets/thesis.pdf). PhD Thesis. 2023.
+- [Generating proof certificates for a language-agnostic deductive program verifier]({{ site.url }}/assets/paper-2023-proof-gen-verifier.pdf). OOPSLA 2023. 
+- [Towards a trustworthy semantics-based language framework via proof generation]({{ site.url }}/assets/paper-2021-proof-gen-exec.pdf). CAV 2021.
+- [A general approach to define binders using matching logic]({{ site.url }}/assets/paper-2020-binders.pdf). ICFP 2020. 
+- [Towards A unified proof framework for automated fixpoint reasoning using matching logic]({{ site.url }}/assets/paper-2020-fixpoint-prover.pdf). OOPSLA 2020.
+- [Matching μ-logic]({{ site.url }}/assets/paper-2019-matching-mu-logic.pdf). LICS 2019.
 
