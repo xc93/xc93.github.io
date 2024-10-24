@@ -6,7 +6,7 @@ layout: default
 ---
 
 Welcome. 
-I'm the CTO of [Pi Squared](https://pi2.network).
+I'm the CTO of [Pi Squared Inc](https://pi2.network).
 
 # Contact
 - Email: `xiaohong.chen@pi2.network`
@@ -15,9 +15,9 @@ I'm the CTO of [Pi Squared](https://pi2.network).
 - LinkedIn: [[link]](https://www.linkedin.com/in/chen-xiaohong/)
 
 # Bio
-- 2024-present. CTO. Pi Squared. 
-- 2023-2024. Research engineer. Runtime Verification.
-- 2016-2023. PhD. Universiry of Illinois Urbana-Champaign. 
+- 2024-present. CTO. Pi Squared Inc. 
+- 2023-2024. Research engineer. Runtime Verification Inc.
+- 2016-2023. PhD. University of Illinois Urbana-Champaign. 
 - 2015-2016. Research assistant. Singapore University of Technology and Design. 
 - 2014-2015. Assistant lecturer. Birmingham City University. 
 - 2010-2014. BSc. Peking University. 
