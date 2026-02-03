@@ -62,6 +62,38 @@ body {
   padding: 3rem var(--spacing) 4rem;
 }
 
+/* Section cards */
+section, .section {
+  background: var(--color-bg);
+  border: 1px solid var(--color-rule);
+  border-radius: 6px;
+  padding: 1.75rem 2rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+@media (prefers-color-scheme: dark) {
+  section, .section {
+    background: rgba(255,255,255,0.02);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  }
+}
+
+section h2:first-child,
+.section h2:first-child {
+  margin-top: 0;
+}
+
+section:first-of-type {
+  text-align: center;
+}
+
+section .pub-list,
+section .bio-list,
+section .contact-list {
+  margin-bottom: 0;
+}
+
 /* Navigation */
 nav.site-nav {
   position: sticky;
@@ -209,47 +241,77 @@ li::marker {
   padding: 0 1rem;
 }
 
-/* Contact section */
-.contact-list {
+/* Contact icons */
+.contact-icons {
   list-style: none;
   padding: 0;
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
-  gap: 0.5rem 1.5rem;
-  margin-bottom: 2rem;
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
 }
 
-.contact-list li {
+.contact-icons li {
   margin: 0;
 }
 
-.contact-list a {
-  font-size: 0.95rem;
+.contact-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 50%;
+  background: var(--color-rule);
+  color: var(--color-text);
+  font-size: 1rem;
+  font-weight: 600;
+  border-bottom: none;
+  transition: background 0.2s ease;
+}
+
+.contact-icons a:hover {
+  background: var(--color-link);
+  color: var(--color-bg);
 }
 
 /* Bio timeline */
 .bio-list {
   list-style: none;
   padding: 0;
+  margin: 0;
 }
 
 .bio-list li {
-  margin-bottom: 0.75rem;
-  padding-left: 0;
-  display: flex;
-  gap: 1rem;
+  display: grid;
+  grid-template-columns: 7rem 1fr;
+  gap: 0.25rem 1rem;
+  padding: 0.4rem 0;
 }
 
 .bio-list .year {
-  flex-shrink: 0;
-  width: 6.5rem;
   color: var(--color-text-muted);
   font-size: 0.9rem;
 }
 
-.bio-list .role {
-  flex: 1;
+.bio-list .info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.bio-list .title {
+  font-weight: 500;
+}
+
+.bio-list .place {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+/* Fix anchor scroll offset for sticky nav */
+section[id] {
+  scroll-margin-top: 4rem;
 }
 
 /* Publications */
