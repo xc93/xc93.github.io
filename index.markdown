@@ -16,15 +16,17 @@ layout: default
   </div>
 
   <ul class="contact-icons">
-    <li><a href="mailto:xiaohong.chen@pi2.network" title="Email">✉</a></li>
-    <li><a href="https://x.com/chenxiaohong" title="X">𝕏</a></li>
-    <li><a href="https://t.me/xiaohong_chen" title="Telegram">✈</a></li>
-    <li><a href="https://www.linkedin.com/in/chen-xiaohong/" title="LinkedIn">in</a></li>
+    <li><a target="_blank" href="mailto:xiaohong.chen@pi2.network" title="Email">✉</a></li>
+    <li><a target="_blank" href="https://x.com/chenxiaohong" title="X">𝕏</a></li>
+    <li><a target="_blank" href="https://t.me/xiaohong_chen" title="Telegram">✈</a></li>
+    <li><a target="_blank" href="https://www.linkedin.com/in/chen-xiaohong/" title="LinkedIn">in</a></li>
   </ul>
 
-  <p class="intro">Welcome. I'm the CTO of <a href="https://pi2.network">Pi Squared Inc</a>.</p>
+  <p class="intro">Welcome. I'm the CTO of <a target="_blank" href="https://pi2.network">Pi Squared Inc</a>.</p>
 
-  <p class="research-overview">I built mathematical foundations for programming languages through logic and formal verification during my PhD. At Pi Squared, applying this to web3 revealed that performance is what unlocks adoption. My work has since grown to span consensus protocols and distributed systems — alongside leading technical strategy and partnerships.</p>
+  <p class="research-overview">I built mathematical foundations for programming languages through logic and formal verification during my PhD.</p>
+
+  <p class="research-overview">At Pi Squared, applying this to web3 revealed that performance is what unlocks adoption. My work now spans consensus protocols and distributed systems — alongside technical strategy and partnerships.</p>
 </section>
 
 <section id="bio">
@@ -44,39 +46,39 @@ layout: default
 
   <ul class="pub-list">
     <li>
-      <a href="/assets/thesis.pdf">Matching μ-logic</a>.<br>
+      <a target="_blank" href="/assets/thesis.pdf">Matching μ-logic</a>.<br>
       <span class="authors"><span class="me">Xiaohong Chen</span>.</span><br>
       <span class="venue">PhD Thesis, University of Illinois Urbana-Champaign, 2023.</span>
     </li>
     <li>
-      <a href="/assets/paper-2023-proof-gen-verifier.pdf">Generating Proof Certificates for a Language-Agnostic Deductive Program Verifier</a>.<br>
+      <a target="_blank" href="/assets/paper-2023-proof-gen-verifier.pdf">Generating Proof Certificates for a Language-Agnostic Deductive Program Verifier</a>.<br>
       <span class="authors">Zhengyao Lin, <span class="me">Xiaohong Chen</span>, Minh-Thai Trinh, John Wang, Grigore Rosu.</span><br>
       <span class="venue">OOPSLA 2023.</span>
-      <span class="links">[<a href="https://doi.org/10.1145/3586029">DOI</a>]</span>
+      <span class="links">[<a target="_blank" href="https://doi.org/10.1145/3586029">DOI</a>]</span>
     </li>
     <li>
-      <a href="/assets/paper-2021-proof-gen-exec.pdf">Towards a Trustworthy Semantics-Based Language Framework via Proof Generation</a>.<br>
+      <a target="_blank" href="/assets/paper-2021-proof-gen-exec.pdf">Towards a Trustworthy Semantics-Based Language Framework via Proof Generation</a>.<br>
       <span class="authors"><span class="me">Xiaohong Chen</span>, Zhengyao Lin, Minh-Thai Trinh, Grigore Rosu.</span><br>
       <span class="venue">CAV 2021.</span>
-      <span class="links">[<a href="https://doi.org/10.1007/978-3-030-81688-9_23">DOI</a>]</span>
+      <span class="links">[<a target="_blank" href="https://doi.org/10.1007/978-3-030-81688-9_23">DOI</a>]</span>
     </li>
     <li>
-      <a href="/assets/paper-2020-binders.pdf">A General Approach to Define Binders Using Matching Logic</a>.<br>
+      <a target="_blank" href="/assets/paper-2020-binders.pdf">A General Approach to Define Binders Using Matching Logic</a>.<br>
       <span class="authors"><span class="me">Xiaohong Chen</span>, Grigore Rosu.</span><br>
       <span class="venue">ICFP 2020.</span>
-      <span class="links">[<a href="https://doi.org/10.1145/3408970">DOI</a>]</span>
+      <span class="links">[<a target="_blank" href="https://doi.org/10.1145/3408970">DOI</a>]</span>
     </li>
     <li>
-      <a href="/assets/paper-2020-fixpoint-prover.pdf">Towards a Unified Proof Framework for Automated Fixpoint Reasoning Using Matching Logic</a>.<br>
+      <a target="_blank" href="/assets/paper-2020-fixpoint-prover.pdf">Towards a Unified Proof Framework for Automated Fixpoint Reasoning Using Matching Logic</a>.<br>
       <span class="authors"><span class="me">Xiaohong Chen</span>, Minh-Thai Trinh, Nishant Rodrigues, Lucas Peña, Grigore Rosu.</span><br>
       <span class="venue">OOPSLA 2020.</span>
-      <span class="links">[<a href="https://doi.org/10.1145/3428229">DOI</a>]</span>
+      <span class="links">[<a target="_blank" href="https://doi.org/10.1145/3428229">DOI</a>]</span>
     </li>
     <li>
-      <a href="/assets/paper-2019-matching-mu-logic.pdf">Matching μ-Logic</a>.<br>
+      <a target="_blank" href="/assets/paper-2019-matching-mu-logic.pdf">Matching μ-Logic</a>.<br>
       <span class="authors"><span class="me">Xiaohong Chen</span>, Grigore Rosu.</span><br>
       <span class="venue">LICS 2019.</span>
-      <span class="links">[<a href="https://doi.org/10.1109/LICS.2019.8785675">DOI</a>]</span>
+      <span class="links">[<a target="_blank" href="https://doi.org/10.1109/LICS.2019.8785675">DOI</a>]</span>
     </li>
   </ul>
 

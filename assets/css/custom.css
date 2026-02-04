@@ -67,8 +67,8 @@ section, .section {
   background: var(--color-bg);
   border: 1px solid var(--color-rule);
   border-radius: 6px;
-  padding: 1.75rem 2rem;
-  margin-bottom: 1.5rem;
+  padding: 2rem 2rem 2.25rem;
+  margin-bottom: 2rem;
   box-shadow: 0 1px 3px rgba(0,0,0,0.04);
 }
 
@@ -84,7 +84,7 @@ section h2:first-child,
   margin-top: 0;
 }
 
-section:first-of-type {
+section#about {
   text-align: center;
 }
 
@@ -137,7 +137,7 @@ header {
 }
 
 header .name-chinese {
-  font-family: "KaiTi", "STKaiti", "AR PL UKai CN", "楷体", serif;
+  font-family: "Ma Shan Zheng", "KaiTi", "STKaiti", serif;
   letter-spacing: 0.15em;
 }
 
@@ -179,9 +179,11 @@ h2 {
   padding-bottom: 0.5rem;
 }
 h3 { 
-  font-size: 1.1rem;
-  margin-top: 1.5rem;
-  color: var(--color-text-muted);
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  color: var(--color-text);
 }
 
 p {
@@ -257,7 +259,7 @@ li::marker {
   padding: 0;
   display: flex;
   justify-content: center;
-  gap: 1rem;
+  gap: 1.25rem;
   margin: 1rem 0 1.5rem;
 }
 
@@ -269,12 +271,12 @@ li::marker {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2.2rem;
-  height: 2.2rem;
+  width: 2.5rem;
+  height: 2.5rem;
   border-radius: 50%;
   background: var(--color-rule);
   color: var(--color-text);
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 600;
   border-bottom: none;
   transition: background 0.2s ease;
