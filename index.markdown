@@ -24,7 +24,7 @@ layout: default
 
   <p class="intro">Welcome. I'm the CTO of <a href="https://pi2.network">Pi Squared Inc</a>.</p>
 
-  <p class="research-overview">My PhD built mathematical foundations for programming languages through logic and formal verification. At Pi Squared, applying this to web3 revealed that performance is what unlocks adoption. My work has since grown to span consensus protocols and distributed systems — alongside leading technical strategy and partnerships.</p>
+  <p class="research-overview">I built mathematical foundations for programming languages through logic and formal verification during my PhD. At Pi Squared, applying this to web3 revealed that performance is what unlocks adoption. My work has since grown to span consensus protocols and distributed systems — alongside leading technical strategy and partnerships.</p>
 </section>
 
 <section id="bio">

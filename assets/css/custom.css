@@ -137,10 +137,13 @@ header {
 }
 
 header .name-chinese {
-  font-size: 1.5rem;
-  margin: 0 0 0.25rem;
-  color: var(--color-text);
-  letter-spacing: 0.1em;
+  font-family: "KaiTi", "STKaiti", "AR PL UKai CN", "楷体", serif;
+  letter-spacing: 0.15em;
+}
+
+header .name-divider {
+  color: var(--color-text-muted);
+  margin: 0 0.3rem;
 }
 
 header h1 {
