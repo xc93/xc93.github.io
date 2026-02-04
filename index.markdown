@@ -24,7 +24,7 @@ layout: default
 
   <p class="intro">Welcome. I'm the CTO of <a href="https://pi2.network">Pi Squared Inc</a>.</p>
 
-  <p class="research-overview">My research focuses on matching logic, a unified foundation for programming language semantics and formal verification. At Pi Squared, I'm building tools that enable universal trust through proof generation and verification.</p>
+  <p class="research-overview">My PhD built mathematical foundations for programming languages through logic and formal verification. At Pi Squared, applying this to web3 revealed that performance is what unlocks adoption. My work has since grown to span consensus protocols and distributed systems — alongside leading technical strategy and partnerships.</p>
 </section>
 
 <section id="bio">
