@@ -16,23 +16,23 @@ layout: default
   </div>
 
   <ul class="contact-icons">
-    <li><a target="_blank" href="mailto:xiaohong.chen@pi2.network" title="Email">✉</a></li>
+    <li><a target="_blank" href="mailto:xiaohong@fast.xyz" title="Email">✉</a></li>
     <li><a target="_blank" href="https://x.com/chenxiaohong" title="X">𝕏</a></li>
     <li><a target="_blank" href="https://t.me/xiaohong_chen" title="Telegram">✈</a></li>
     <li><a target="_blank" href="https://www.linkedin.com/in/chen-xiaohong/" title="LinkedIn">in</a></li>
   </ul>
 
-  <p class="intro">Welcome. I'm the CTO of <a target="_blank" href="https://pi2.network">Pi Squared Inc</a>.</p>
+  <p class="intro">Welcome. I'm the CTO of <a target="_blank" href="https://fast.xyz">fast.xyz</a>.</p>
 
   <p class="research-overview">I built mathematical foundations for programming languages through logic and formal verification during my PhD.</p>
 
-  <p class="research-overview">At Pi Squared, applying this to web3 revealed that performance is what unlocks adoption. My work now spans consensus protocols and distributed systems — alongside technical strategy and partnerships.</p>
+  <p class="research-overview">At <a target="_blank" href="https://fast.xyz">fast.xyz</a>, applying this to web3 revealed that performance is what unlocks adoption. My work now spans consensus protocols and distributed systems — alongside technical strategy and partnerships.</p>
 </section>
 
 <section id="bio">
   <h2>Bio</h2>
   <ul class="bio-list">
-    <li><span class="year">2024–present</span><span class="info"><span class="title">CTO</span><span class="place">Pi Squared Inc.</span></span></li>
+    <li><span class="year">2024–present</span><span class="info"><span class="title">CTO</span><span class="place"><a target="_blank" href="https://fast.xyz">fast.xyz</a></span></span></li>
     <li><span class="year">2023–2024</span><span class="info"><span class="title">Research Engineer</span><span class="place">Runtime Verification Inc.</span></span></li>
     <li><span class="year">2016–2023</span><span class="info"><span class="title">PhD</span><span class="place">University of Illinois Urbana-Champaign</span></span></li>
     <li><span class="year">2015–2016</span><span class="info"><span class="title">Research Assistant</span><span class="place">Singapore University of Technology and Design</span></span></li>
