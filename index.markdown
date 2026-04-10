@@ -24,9 +24,9 @@ layout: default
 
   <p class="intro">Welcome. I'm the CTO of <a target="_blank" href="https://fast.xyz">fast.xyz</a>.</p>
 
-  <p class="research-overview">I built mathematical foundations for programming languages through logic and formal verification during my PhD.</p>
+  <p class="research-overview">My PhD was on mathematical foundations of programming languages — logic and formal verification.</p>
 
-  <p class="research-overview">At <a target="_blank" href="https://fast.xyz">fast.xyz</a>, applying this to web3 revealed that performance is what unlocks adoption. My work now spans consensus protocols and distributed systems — alongside technical strategy and partnerships.</p>
+  <p class="research-overview">At <a target="_blank" href="https://fast.xyz">fast.xyz</a>, applying that to web3 made clear that performance is what unlocks adoption. These days my work spans consensus protocols and distributed systems, alongside technical strategy and partnerships.</p>
 </section>
 
 <section id="bio">
@@ -84,3 +84,8 @@ layout: default
 
   <p class="view-all"><a href="/publications.html">View all publications →</a></p>
 </section>
+
+<blockquote class="page-quote">
+  <p>"If I don't do at least some reading and writing every day, I feel guilty. Did I deserve to exist? No, and so on."</p>
+  <cite>— Slavoj Žižek</cite>
+</blockquote>
