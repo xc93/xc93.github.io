@@ -497,22 +497,36 @@ footer {
 
 /* Page quote */
 .page-quote {
-  text-align: center;
   font-style: italic;
   color: var(--color-text-muted);
-  font-size: 0.9rem;
-  margin: 1rem 0 0;
-  padding: 0;
-  border: none;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin: 0;
+  padding: 1.25rem 2rem;
+  border: 1px solid var(--color-rule);
+  border-left: 3px solid var(--color-accent);
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  background: var(--color-bg);
+}
+
+@media (prefers-color-scheme: dark) {
+  .page-quote {
+    background: rgba(255,255,255,0.02);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  }
 }
 
 .page-quote p {
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.4rem;
 }
 
 .page-quote cite {
+  display: block;
   font-size: 0.85rem;
   font-style: normal;
+  letter-spacing: 0.03em;
+  color: var(--color-accent);
 }
 
 /* Print styles */
