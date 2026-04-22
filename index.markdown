@@ -50,6 +50,17 @@ layout: default
       <span class="authors"><span class="me">Xiaohong Chen</span>.</span><br>
       <span class="venue">PhD Thesis, University of Illinois Urbana-Champaign, 2023.</span>
     </li>
+  </ul>
+
+  <hr class="pub-sep">
+
+  <ul class="pub-list">
+    <li>
+      <a target="_blank" href="https://doi.org/10.1016/j.tcs.2026.115981">A Unifying Logical Foundation for Initial Algebra Semantics and Induction</a>.<br>
+      <span class="authors"><span class="me">Xiaohong Chen</span>, Dorel Lucanu, Grigore Rosu.</span><br>
+      <span class="venue">Theoretical Computer Science, 2026.</span>
+      <span class="links">[<a target="_blank" href="https://doi.org/10.1016/j.tcs.2026.115981">DOI</a>]</span>
+    </li>
     <li>
       <a target="_blank" href="/assets/paper-2023-proof-gen-verifier.pdf">Generating Proof Certificates for a Language-Agnostic Deductive Program Verifier</a>.<br>
       <span class="authors">Zhengyao Lin, <span class="me">Xiaohong Chen</span>, Minh-Thai Trinh, John Wang, Grigore Rosu.</span><br>
