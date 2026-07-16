@@ -26,13 +26,13 @@ layout: default
 
   <p class="research-overview">This direction is grounded in formal methods — logic, programming languages, formal semantics, formal verification, and proof generation.</p>
 
-  <p class="research-overview">I'm the CTO of <a target="_blank" href="https://fast.xyz">fast.xyz</a>. I also work on <a target="_blank" href="https://arxiv.org/abs/2506.23395">FastSet</a>, a protocol for parallel claim settlement, and on high-performance decentralized and distributed systems.</p>
+  <p class="research-overview">I'm the CTO of <a target="_blank" href="https://pi2labs.org">pi2labs.org</a> and <a target="_blank" href="https://fast.xyz">fast.xyz</a>. I also work on <a target="_blank" href="https://arxiv.org/abs/2506.23395">FastSet</a>, a protocol for parallel claim settlement, and on high-performance decentralized and distributed systems.</p>
 </section>
 
 <section id="bio">
   <h2>Bio</h2>
   <ul class="bio-list">
-    <li><span class="year">2024–present</span><span class="info"><span class="title">CTO</span><span class="place"><a target="_blank" href="https://fast.xyz">fast.xyz</a></span></span></li>
+    <li><span class="year">2024–present</span><span class="info"><span class="title">CTO</span><span class="place"><a target="_blank" href="https://pi2labs.org">pi2labs.org</a> and <a target="_blank" href="https://fast.xyz">fast.xyz</a></span></span></li>
     <li><span class="year">2023–2024</span><span class="info"><span class="title">Research Engineer</span><span class="place">Runtime Verification Inc.</span></span></li>
     <li><span class="year">2016–2023</span><span class="info"><span class="title">PhD</span><span class="place">University of Illinois Urbana-Champaign</span></span></li>
     <li><span class="year">2015–2016</span><span class="info"><span class="title">Research Assistant</span><span class="place">Singapore University of Technology and Design</span></span></li>
