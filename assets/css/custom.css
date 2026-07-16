@@ -401,6 +401,10 @@ footer {
   border-left: 3px solid var(--color-accent);
 }
 
+.page-quote + .page-quote {
+  margin-top: 1rem;
+}
+
 .page-quote p {
   margin-bottom: 0.4rem;
 }

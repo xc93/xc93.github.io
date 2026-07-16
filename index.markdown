@@ -103,6 +103,11 @@ layout: default
 </section>
 
 <blockquote class="page-quote">
+  <p>"What can be said at all can be said clearly. What we cannot speak about we must pass over in silence."</p>
+  <cite>— Ludwig Wittgenstein</cite>
+</blockquote>
+
+<blockquote class="page-quote">
   <p>"If I don't do at least some reading and writing every day, I feel guilty. Did I deserve to exist? No, and so on."</p>
   <cite>— Slavoj Žižek</cite>
 </blockquote>
