@@ -22,11 +22,11 @@ layout: default
     <li><a target="_blank" href="https://www.linkedin.com/in/chen-xiaohong/" title="LinkedIn">in</a></li>
   </ul>
 
-  <p class="intro">Welcome. I'm the CTO of <a target="_blank" href="https://fast.xyz">fast.xyz</a>.</p>
+  <p class="intro">Welcome. My current direction is <strong>certifying AI</strong>: how AI systems can produce computational results with independently checkable certificates, rather than asking people to trust the model alone.</p>
 
-  <p class="research-overview">My PhD was on mathematical foundations of programming languages — logic and formal verification.</p>
+  <p class="research-overview">This direction is grounded in formal methods — logic, programming languages, formal semantics, formal verification, and proof generation.</p>
 
-  <p class="research-overview">At <a target="_blank" href="https://fast.xyz">fast.xyz</a>, applying that to web3 made clear that performance is what unlocks adoption. These days my work spans consensus protocols and distributed systems, alongside technical strategy and partnerships.</p>
+  <p class="research-overview">I'm the CTO of <a target="_blank" href="https://fast.xyz">fast.xyz</a>. I also work on <a target="_blank" href="https://arxiv.org/abs/2506.23395">FastSet</a>, a protocol for parallel claim settlement, and on high-performance decentralized and distributed systems.</p>
 </section>
 
 <section id="bio">
@@ -60,6 +60,12 @@ layout: default
       <span class="authors"><span class="me">Xiaohong Chen</span>, Dorel Lucanu, Grigore Rosu.</span><br>
       <span class="venue">Theoretical Computer Science, 2026.</span>
       <span class="links">[<a target="_blank" href="https://doi.org/10.1016/j.tcs.2026.115981">DOI</a>]</span>
+    </li>
+    <li>
+      <a target="_blank" href="https://arxiv.org/abs/2506.23395">FastSet: Parallel Claim Settlement</a>.<br>
+      <span class="authors"><span class="me">Xiaohong Chen</span>, Grigore Rosu.</span><br>
+      <span class="venue">arXiv preprint, 2025.</span>
+      <span class="links">[<a target="_blank" href="https://arxiv.org/abs/2506.23395">arXiv</a>]</span>
     </li>
     <li>
       <a target="_blank" href="/assets/paper-2023-proof-gen-verifier.pdf">Generating Proof Certificates for a Language-Agnostic Deductive Program Verifier</a>.<br>
