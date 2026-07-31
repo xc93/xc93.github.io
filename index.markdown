@@ -17,6 +17,13 @@ layout: default
 
   <ul class="contact-icons">
     <li><a target="_blank" href="mailto:xiaohong@fast.xyz" title="Email">✉</a></li>
+    <li>
+      <a target="_blank" href="https://scholar.google.com/citations?user=rii1jpkAAAAJ" title="Google Scholar" aria-label="Google Scholar">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12 3 2 8l10 5 8-4v5h2V8L12 3Zm-6 8.1V16c0 1.7 2.7 3 6 3s6-1.3 6-3v-4.9l-6 3-6-3Z"/>
+        </svg>
+      </a>
+    </li>
     <li><a target="_blank" href="https://x.com/chenxiaohong" title="X">𝕏</a></li>
     <li><a target="_blank" href="https://t.me/xiaohong_chen" title="Telegram">✈</a></li>
     <li><a target="_blank" href="https://www.linkedin.com/in/chen-xiaohong/" title="LinkedIn">in</a></li>
@@ -62,7 +69,7 @@ layout: default
       <span class="links">[<a target="_blank" href="https://doi.org/10.1016/j.tcs.2026.115981">DOI</a>]</span>
     </li>
     <li>
-      <a target="_blank" href="https://arxiv.org/abs/2506.23395">FastSet: Parallel Claim Settlement</a>.<br>
+      <a target="_blank" href="/assets/paper-2025-fastset.pdf">FastSet: Parallel Claim Settlement</a>.<br>
       <span class="authors"><span class="me">Xiaohong Chen</span>, Grigore Rosu.</span><br>
       <span class="venue">arXiv preprint, 2025.</span>
       <span class="links">[<a target="_blank" href="https://arxiv.org/abs/2506.23395">arXiv</a>]</span>
